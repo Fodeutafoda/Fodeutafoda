@@ -2,5 +2,4 @@
 - 👀 ｢Estou interessado em me torna Engenheiro de Software｣
 - 🌱 ｢Eu estou aprendendo atualmente básico do front end｣
 - 📫 ｢Estou no twitter - > ｣
-
-
+- 💀 ｢Atualmente meu meio de aprender e praticar estou apenas utilizando um telefone｣
